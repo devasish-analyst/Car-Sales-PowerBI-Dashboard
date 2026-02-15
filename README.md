@@ -1,6 +1,6 @@
-# 🚗 Car Sales Dashboard – Power BI Analytics Project
+#  Car Sales Dashboard – Power BI Analytics Project
 
-## 📌 Background
+##  Background
 Our company is a car dealership that sells multiple car models across different
 regions. To effectively monitor sales performance and support data-driven
 decision-making, a comprehensive **Car Sales Dashboard** was developed using
@@ -8,7 +8,7 @@ Power BI.
 
 ---
 
-## 🎯 Objective
+##  Objective
 The objective of this project is to design and develop a **dynamic and interactive
 Car Sales Dashboard** in Power BI that visualizes critical KPIs related to car sales,
 pricing trends, and sales volume over time.
@@ -20,21 +20,21 @@ The dashboard enables stakeholders to:
 
 ---
 
-## 🧩 Problem Statement 1: KPI Requirements
+##  Problem Statement 1: KPI Requirements
 
-### 🔹 Sales Overview
+###  Sales Overview
 - Year-to-Date (YTD) Total Sales  
 - Month-to-Date (MTD) Total Sales  
 - Year-over-Year (YOY) Growth in Total Sales  
 - Difference between YTD Sales and Previous Year-to-Date (PTYD) Sales  
 
-### 🔹 Average Price Analysis
+###  Average Price Analysis
 - YTD Average Price  
 - MTD Average Price  
 - YOY Growth in Average Price  
 - Difference between YTD Average Price and PTYD Average Price  
 
-### 🔹 Cars Sold Metrics
+###  Cars Sold Metrics
 - YTD Cars Sold  
 - MTD Cars Sold  
 - YOY Growth in Cars Sold  
@@ -42,9 +42,9 @@ The dashboard enables stakeholders to:
 
 ---
 
-## 📊 Problem Statement 2: Visualization Requirements
+##  Problem Statement 2: Visualization Requirements
 
-### 🔹 Charts & Visuals
+###  Charts & Visuals
 - **YTD Sales Weekly Trend**  
   Line chart showing weekly YTD sales trends.
 
@@ -72,7 +72,7 @@ The dashboard enables stakeholders to:
 
 ---
 
-## 🛠️ Power BI Features Used
+##  Power BI Features Used
 - DAX measures (YTD, MTD, YOY, PTYD)
 - Time intelligence functions
 - KPI cards
@@ -82,7 +82,7 @@ The dashboard enables stakeholders to:
 
 ---
 
-## 📈 Key Insights
+##  Key Insights
 - Sales performance trends vary significantly across regions
 - Certain body styles and colors contribute more to overall revenue
 - YOY growth highlights periods of strong and weak performance
